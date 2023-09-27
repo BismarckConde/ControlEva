@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlEva", "ControlEva\ControlEva.csproj", "{250412DF-014D-47B8-BA71-C7EB6E822E23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{250412DF-014D-47B8-BA71-C7EB6E822E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250412DF-014D-47B8-BA71-C7EB6E822E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250412DF-014D-47B8-BA71-C7EB6E822E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250412DF-014D-47B8-BA71-C7EB6E822E23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03BD8F0B-A86B-4CBB-9D75-CF111CF00D85}
+	EndGlobalSection
+EndGlobal
